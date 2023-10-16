@@ -59,6 +59,7 @@ a {
     position: relative;
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 .content {
     width: 1110px;
@@ -105,16 +106,11 @@ a {
     border-radius: 8px;
 }
 
-.hero {
-    padding-top: 40px;
-}
-
 .hero .info {
     width: 51%;
 }
 
 .hero .sub-title {
-    margin-top: 130px;
     color: #687690;
     font-size: 1.8rem;
     line-height: 1.5rem;
