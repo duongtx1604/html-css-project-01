@@ -51,7 +51,7 @@ a {
 
 .hero-warp {
     background: #e6f0ff;
-    height: 100vh;
+    height: calc(100vh - 90px);
     position: relative;
     display: flex;
     flex-direction: column;
@@ -102,7 +102,7 @@ a {
 }
 
 .hero {
-    padding-top: 130px;
+    padding-top: 40px;
 }
 
 .hero .info {
